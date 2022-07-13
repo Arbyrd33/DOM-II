@@ -31,6 +31,9 @@ Do not **move or rename any files** in this project. The website's source files 
   * [ X ] `mouseenter`
   * [ X ] `mouseleave`
   * [ X ] `click`
+  * [ X ] `mousedown`
+  * [ X ] `mouseup`
+  
   * [ ] `keydown`
   * [ ] `wheel`
   * [ ] `load`
@@ -49,4 +52,4 @@ Note: Drag and drop is a bit more advanced than the others. It's not actually a 
 
 ## Submission Format
 
-* [ ] Submit link to your github repo in canvas.
+* [ X ] Submit link to your github repo in canvas.
